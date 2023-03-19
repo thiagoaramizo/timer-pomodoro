@@ -2,9 +2,9 @@ export const defaultTheme = {
   color: {
     white: '#fff',
 
-    'primary-300': '#00B37E',
-    'primary-500': '#00875F',
-    'primary-700': '#015F43',
+    'primary-300': '#EC6592',
+    'primary-500': '#E91E63',
+    'primary-700': '#B5184C',
 
     'gray-100': '#E1E1E6',
     'gray-300': '#C4C4CC',
